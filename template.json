@@ -1,0 +1,7 @@
+{
+    "name": "LifeRP",
+    "description": "Powerfull roleplay",
+    "author": "Valentin LAMOTHE",
+    "gamemode": "./liferp.dll",
+    "plugins": []
+}
